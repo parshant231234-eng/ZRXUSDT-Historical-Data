@@ -9,8 +9,8 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
 - **Total Months:** `93` months
-- **Total Candles:** `4,004,631` 1-minute candles
-- **Historical Range:** `2019-02-28 04:00:00` to `2026-10-12 23:59:00` (UTC)
+- **Total Candles:** `4,011,831` 1-minute candles
+- **Historical Range:** `2019-02-28 04:00:00` to `2026-10-17 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
